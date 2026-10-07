@@ -1,7 +1,6 @@
 # MME 305 – Pancake Automation Project
 
-sensor calibration, data acquisition, signal
-processing, wiring design, and app design.
+Designed an app within MATLAB environment to control and interface with a loadcell, thermocouple, pancake griddle, and blender so that pancake batter was measured accurately and pancake was cooked perfectly every time. App was designed to be user friendly and was tested by friends and faculty.
 
 ## Projects Elements
 
